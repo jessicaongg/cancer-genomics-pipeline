@@ -1,0 +1,10 @@
+bwa
+samtools
+bcftools
+GATK
+Manta
+snpEff
+SnpSift
+bedtools
+FastQC
+Cutadapt
