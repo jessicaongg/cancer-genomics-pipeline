@@ -1,0 +1,19 @@
+Raw FASTQ Files
+        ↓
+Quality Control (FastQC)
+        ↓
+Reference Alignment (bwa mem)
+        ↓
+SAM/BAM Processing (samtools)
+        ↓
+Duplicate Marking
+        ↓
+Read Group Assignment (GATK)
+        ↓
+Variant Calling (HaplotypeCaller)
+        ↓
+Variant Annotation (snpEff / SnpSift)
+        ↓
+Structural Variant Calling (Manta)
+        ↓
+Summary Tables & Downstream Analysis
