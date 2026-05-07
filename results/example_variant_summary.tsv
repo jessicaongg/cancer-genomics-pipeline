@@ -1,0 +1,5 @@
+Chrom	Pos	ID	Ref	Alt	Impact	Gene	Effect	AA_change	gnomAD_AF
+chr10	95067362	rs11572078	T	TA	HIGH	CYP2C8	frameshift_variant	p.Leu23fs	0.279
+chr17	7676154	rs1042522	G	C	MODERATE	TP53	missense_variant	p.Pro72Arg	0.636
+chr17	43071077	rs1799966	T	C	MODERATE	BRCA1	missense_variant	p.Ser1634Gly	0.323
+chrX	41357831	rs6520743	A	T	HIGH	DDX3X	splice_acceptor_variant	-	0.431
