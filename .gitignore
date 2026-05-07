@@ -1,0 +1,30 @@
+# Large sequencing files
+*.fastq
+*.fastq.gz
+*.fq.gz
+*.bam
+*.sam
+*.vcf.gz
+*.bai
+
+# Temporary files
+tmp/
+logs/
+
+# MacOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Conda
+.env
+.conda
+
+# R
+.Rhistory
+.RData
