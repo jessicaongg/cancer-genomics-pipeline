@@ -3,6 +3,10 @@
 ## Overview
 This repository contains reproducible cancer genomics workflows developed for paired-end next-generation sequencing (NGS) analysis in Linux environments.
 
+## Workflow Overview
+
+![Pipeline Overview](workflow/pipeline_overview.png)
+
 The pipeline includes:
 - Read preprocessing
 - Alignment
