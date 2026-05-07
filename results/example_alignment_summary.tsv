@@ -1,0 +1,3 @@
+Sample	Total_Reads	Mapped_Reads	Unmapped_Reads	Duplicates
+Normal	593953	592524	1429	2514
+Tumour	583348	581919	1429	2472
